@@ -1,0 +1,25 @@
+13
+390
+321
+1
+-1
+C:\Program Files\Album of Graduates\Pictures\выпуск Копыловой10.jpg
+.jpg
+150
+269
+2
+0
+C:\Program Files\Album of Graduates\Pictures\выпуск Копыловой11.png
+.png
+155
+211
+323
+238
+C:\Program Files\Album of Graduates\Pictures\выпуск Копыловой12.png
+.png
+238
+210
+323
+0
+C:\Program Files\Album of Graduates\Pictures\выпуск Копыловой13.jpg
+.jpg

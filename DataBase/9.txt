@@ -1,0 +1,25 @@
+13
+478
+533
+2
+-2
+C:\Program Files\Album of Graduates\Pictures\9\10.jpg
+.jpg
+150
+269
+2
+0
+C:\Program Files\Album of Graduates\Pictures\9\11.png
+.png
+143
+228
+3
+250
+C:\Program Files\Album of Graduates\Pictures\9\12.jpg
+.jpg
+357
+91
+269
+21
+C:\Program Files\Album of Graduates\Pictures\9\13.png
+.png

@@ -1,0 +1,31 @@
+14
+389
+325
+-1
+0
+C:\Program Files\Album of Graduates\Pictures\выпуск Кулик10.jpg
+.jpg
+150
+269
+6
+243
+C:\Program Files\Album of Graduates\Pictures\выпуск Кулик11.png
+.png
+155
+211
+323
+238
+C:\Program Files\Album of Graduates\Pictures\выпуск Кулик12.png
+.png
+241
+210
+324
+-3
+C:\Program Files\Album of Graduates\Pictures\выпуск Кулик13.jpg
+.jpg
+290
+117
+277
+7
+C:\Program Files\Album of Graduates\Pictures\выпуск Кулик14.png
+.png
